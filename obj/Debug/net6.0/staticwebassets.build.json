@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SM5BhHpWr75Q56K671EXDnM+P2ChoBuFY1lltP7Hnsw=",
+  "Source": "NLPTexttoNumber",
+  "BasePath": "_content/NLPTexttoNumber",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
