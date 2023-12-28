@@ -1,5 +1,5 @@
-#NLP – Karakter’den Numara’ya Dönüşüm
-Çalışması
+# NLP – Karakter’den Numara’ya Dönüşüm Çalışması
+
 
 # Proje İçeriği
 
@@ -19,7 +19,6 @@ dönüştürülecektir.
 
 { "Output": "100000 lira kredi kullanmak istiyorum" }
 # Kullanılan Teknolojiler
-
 
 Net core 7.0
 C# • MVC Web API
